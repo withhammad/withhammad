@@ -4,7 +4,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/withhammad/)](https://www.linkedin.com/in/withhammad/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-hamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/withhammad/)](https://www.linkedin.com/in/withhammad/)
 
 
 
