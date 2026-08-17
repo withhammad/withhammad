@@ -1,67 +1,30 @@
-<h2>🙏🏻, I'm Hammmad! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Developer at <a href="[www.gmpropertydubai.com](https://www.gmpropertydubai.com/)">GmProperty</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">Hi 👋, I'm Hammad Yousuf</h1>
+<h3 align="center">AI Automation Engineer | AI Marketing Automation Specialist</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-hamad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/withhammad/)](https://www.linkedin.com/in/withhammad/)
+<p align="center">
+Building production AI agents (n8n, MCP, RAG) that automate marketing operations — prospecting, creative generation, outreach, and lead response.
+</p>
 
+- 🔭 Currently: AI Marketing Automation Specialist at **Printo**, Dubai
+- ⚙️ I build AI agents, marketing automation workflows, and performance marketing systems (Google Ads, Meta Ads, GA4)
+- 📈 Recent work: Scaled Google Ads to 3,750 conversions on AED 42K spend · GA4 + server-side GTM attribution recovering AED 11K/month in misallocated spend
+- 🌍 Based in Dubai, UAE — open to worldwide remote roles
+- 🔗 [Agent Portfolio](https://withhammad.com/agents) · [Website](https://withhammad.com) · [LinkedIn](https://www.linkedin.com/in/withhammad/)
 
+### 🛠️ Tech Stack
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p align="left">
+<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
-```javascript
-const hammad = {
-    pronouns: "He" | "is",
-    code: ["Kotlin", "Dart", "Python", "Java", "php"],
-    askMeAbout: [ "app dev", "Youtuber],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"]
-          
-        },
- 
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing App for students in Dartcusing Flutter 3.7",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+### 📊 GitHub Stats
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    5  commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Calcutta
-
-💬 Languages: 
-Kotlin                   6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Flutter                  2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-
-🔥 Editors: 
-Android Studio           1 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-Vs Code                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-
-💻 Operating Systems: 
-Mac                      17 hrs 5 mins       █████████████████████████   100.0%
-
-```
-<!--END_SECTION:waka-->
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=withhammad&show_icons=true&theme=radical" />
+</p>
