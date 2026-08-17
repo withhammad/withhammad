@@ -22,9 +22,3 @@ Building production AI agents (n8n, MCP, RAG) that automate marketing operations
 <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=withhammad&show_icons=true&theme=radical" />
-</p>
