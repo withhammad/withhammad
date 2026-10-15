@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hammad Yousuf</h1>
-<h3 align="center">AI Automation Engineer | AI Marketing Automation Specialist</h3>
+# Hammad Yousuf
 
-<p align="center">
-Building production AI agents (n8n, MCP, RAG) that automate marketing operations — prospecting, creative generation, outreach, and lead response.
-</p>
+**AI Automation Engineer · Software Developer · Dubai, UAE**
 
-- 🔭 Currently: AI Marketing Automation Specialist at **Printo**, Dubai
-- ⚙️ I build AI agents, marketing automation workflows, and performance marketing systems (Google Ads, Meta Ads, GA4)
-- 📈 Recent work: Scaled Google Ads to 3,750 conversions on AED 42K spend · GA4 + server-side GTM attribution recovering AED 11K/month in misallocated spend
-- 🌍 Based in Dubai, UAE — open to worldwide remote roles
-- 🔗 [Agent Portfolio](https://withhammad.com/agents) · [Website](https://withhammad.com) · [LinkedIn](https://www.linkedin.com/in/withhammad/)
+I build practical AI-enabled software and workflow automation, with a focus on useful tools, reliable integrations and clear human review when a system is uncertain.
 
-### 🛠️ Tech Stack
+**Current focus:** Python · FastAPI · LLM applications · RAG · AI agents · MCP · n8n · TypeScript
 
-<p align="left">
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</p>
+## Selected work
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Service Recovery Agent](https://github.com/withhammad/service-recovery-agent) | A synthetic operations workbench for agent safety, evidence checks, approvals and recovery. The project reports local test results and states that no live-model advantage or production deployment is claimed. |
+| [With Hammad](https://github.com/withhammad/withhammad-next) | A TypeScript and Next.js portfolio application with API routes, content management and interactive tools. |
+| [Google Ads Agent](https://github.com/withhammad/Google-Ads-Agent) | A Python rules-based account automation project with dry-run defaults, explicit apply controls and an undo log. It is rules-based automation, not an LLM agent. |
+
+## Background
+
+I work across software development, AI engineering and business process automation. Previous roles include Software Engineer at Deewan Equipments and Marketing Automation Engineer at ICON. I’m based in Dubai and open to remote software and AI engineering opportunities.
+
+## Links
+
+[Portfolio](https://withhammad.com) · [LinkedIn](https://www.linkedin.com/in/withhammad/)
